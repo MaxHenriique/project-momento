@@ -23,7 +23,7 @@
     
 }
 
-.video video {
+.video iframe {
     display: flex;
     position: absolute;
     border-radius: 12px;
