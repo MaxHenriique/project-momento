@@ -104,7 +104,7 @@ function SlideVideo(){
                             <Apresentacao 
                             hard="Back End"
                             nome="Leonardo Lima"
-                            funcao="Figurante"
+                            funcao="Dev Jr"
                             avatar={leo}
                             movie={leoMovie}
                             soft="Olhar crítico"
