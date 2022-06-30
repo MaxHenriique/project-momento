@@ -57,4 +57,21 @@ O React foi a tecnologia escolhida por ser uma eficiente biblioteca para padroni
 
 O projeto momento foi desenvolvido fazendo uso do versionamento de código, a partir do GITHUB ,então era extremamente importante delegar as tarefas, funcionalidades e componentes. A divisão de pastas, antes mesmo do processo de codificação, facilitou na consistência e perspectva do projeto. 
 
-``` Padronização de pastas : ```
+``` Componentes : ```
+
+Os componentes ficavam em subpastas onde continham o arquivo JSX e o CSS do respectivo componente.
+
+<hr>
+
+#### VÍDEOS E APRESENTAÇÃO
+
+
+
+<hr>
+
+#### MEMBROS E DELEGAÇÃO DE TAREFAS  
+
+``` Desenvolvimento do site (REACTJS): ```
+* Matheus Pacco  
+* Pedro Henrique 
+
