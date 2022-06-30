@@ -71,7 +71,14 @@ Os componentes ficavam em subpastas onde continham o arquivo JSX e o CSS do resp
 
 #### MEMBROS E DELEGAÇÃO DE TAREFAS  
 
-``` Desenvolvimento do site (REACTJS): ```
-* Matheus Pacco  
-* Pedro Henrique 
+``` Desenvolvimento do site (REACTJS) // Design de tela: ```
 
+<div>
+  
+  <p>Pedro H. Costa </p>
+  <a href="https://github.com/pedro-costa22" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"    target="_blank"></a>
+ 
+   <p>Matheus Pacco</p>
+  <a href="https://github.com/MatheusPacco" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"     target="_blank"></a>
+  
+</div>
