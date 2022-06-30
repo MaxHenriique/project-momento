@@ -9,3 +9,7 @@ A proposta do projeto é simular uma empresa com um determinado produto, e expor
   - Gravar os vídeos e preparar os roteiros de apresentação; 
 
 ### Design de tela e Identidade visual 
+O Tema princípal do nosso projeto foi desenvolvido em fundo preto, visando um maior contraste e impacto visual. Além disso, um fundo escuro é muito comum de ser utilizado por profisisonais desenvolvedores, que compõem parte do nosso público-alvo. 
+
+A paleta de cores utilizada: 
+<img width="100" height = "100" src="https://www.exemplo.com.br">
