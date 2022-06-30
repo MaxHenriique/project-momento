@@ -52,3 +52,9 @@ Visamos utilizar tipografias modernas, de fácil leitura web e coerentes com os 
 #### REACTJS / PADRONIZAÇÃO DE PASTAS E ESTILIZAÇÃO
 
 O React foi a tecnologia escolhida por ser uma eficiente biblioteca para padronização e reutilização de componentes, além da possibilidade de criar componentes, dividir a aplicação em diferentes pastas, facilitando o processo de delegação de tarefa e divisão de código.
+
+``` Padronização de pastas : ```
+
+O projeto momento foi desenvolvido fazendo uso do versionamento de código, a partir do GITHUB ,então era extremamente importante delegar as tarefas, funcionalidades e componentes. A divisão de pastas, antes mesmo do processo de codificação, facilitou na consistência e perspectva do projeto. 
+
+``` Padronização de pastas : ```
