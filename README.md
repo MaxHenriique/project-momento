@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# Projeto Momento! 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### O projeto momento é um projeto realizado em grupo, com a Equipe 02 do PROA, como uma atividade integradora do curso. 
+A proposta do projeto é simular uma empresa com um determinado produto, e expor os setores que atuam dentro dessa empresa, caracterizando e apresentando os membros de cada setor.
 
-## Available Scripts
 
-In the project directory, you can run:
+- Principais Desafios:
+  - Desenvolver a estrutura do site, sua identidade visual e padronização de componentes;
+  - Codificar em REACTJS, fazendo uso das funções de reaproveitamento de componentes; 
+  - Gravar os vídeos e preparar os roteiros de apresentação; 
 
-### `npm start`
+#### Design de tela e Identidade visual 
+O Tema principal do nosso projeto foi desenvolvido em fundo preto, visando um maior contraste e impacto visual. Além disso, um fundo escuro é muito comum de ser utilizado por profissionais desenvolvedores, que compõem parte do nosso público-alvo.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+``` A paleta de cores utilizada: ```   
+<img width="100px" height="100px" src="https://user-images.githubusercontent.com/68287006/176708043-029fd869-fa5a-4c71-9c4a-84bbbe1d7fad.png">
+<img width="100px" height="100px" src="https://user-images.githubusercontent.com/68287006/176708180-e33280ea-690a-4cea-bb5b-dbdcf70035cc.png">
+<img width="100px" height="100px" src="https://user-images.githubusercontent.com/68287006/176708277-7423aa66-6c40-4ddb-8242-4318e7f22788.png">
+<img width="100px" height="100px" src="https://user-images.githubusercontent.com/68287006/176708378-f5c02944-9e63-4101-912d-b60e03d5af42.png">
 
-### `npm test`
+``` Tipografia: ```   
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Visamos utilizar tipografias modernas, de fácil leitura web e coerentes com os elementos visuais utilizados  
 
-### `npm run build`
+> Tipografia para título:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* **Oswald** 
+  * A Oswald é uma tipografia condensada e bem e encorpada, além de apresentar uma estrutura bem geométrica e moderna. O que também justificou essa escolha, é que ela tinha o contraste desejado com o texto geral da plataforma.
+ 
+> Tipografia para textos:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* **Roboto** 
+  * A Roboto é uma tipografia para leitura web, sendo legível em diferentes tamanhos e resoluções, também contém uma família tipográfica completa, tornando sua aplicação mais versátil na plataforma. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> Tipografia para detalhamento visual:
 
-### `npm run eject`
+* **JetBrains Mono**
+  * A JetBrains Mono é uma família tipográfica de categoria monospace, onde as letras ocupam o mesmo espaço horizontal, simulando a fonte de uma máquina de escrever. A escolha dessa tipografia foi baseada em uma questão visual, sendo usado nas como uma forma de detalhamento visual, além disso é a tipografia utilizada em IDEs de desenvolvimento, criando uma familiaridade com o público-alvo.  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+``` Referências visuais utilizadas : ```
+- Alura 
+- GitHub
+- Udemy 
+- Rockseat 
+- B7 WEB
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Vídeo da aplicação desenvolvida**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<hr>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+#### REACTJS / PADRONIZAÇÃO DE PASTAS E ESTILIZAÇÃO
 
-## Learn More
+O React foi a tecnologia escolhida por ser uma eficiente biblioteca para padronização e reutilização de componentes, além da possibilidade de criar componentes, dividir a aplicação em diferentes pastas, facilitando o processo de delegação de tarefa e divisão de código.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+``` Padronização de pastas : ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+O projeto momento foi desenvolvido fazendo uso do versionamento de código, a partir do GITHUB ,então era extremamente importante delegar as tarefas, funcionalidades e componentes. A divisão de pastas, antes mesmo do processo de codificação, facilitou na consistência e perspectva do projeto. 
 
-### Code Splitting
+``` Componentes : ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Os componentes ficavam em subpastas onde continham o arquivo JSX e o CSS do respectivo componente.
 
-### Analyzing the Bundle Size
+<hr>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+#### VÍDEOS E APRESENTAÇÃO
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+<hr>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+#### MEMBROS E DELEGAÇÃO DE TAREFAS  
 
-### Deployment
+``` Desenvolvimento do site (REACTJS) // Design de tela: ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div>
+  
+  <p>Pedro H. Costa </p>
+  <a href="https://github.com/pedro-costa22" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"    target="_blank"></a>
+ 
+   <p>Matheus Pacco</p>
+  <a href="https://github.com/MatheusPacco" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"     target="_blank"></a>
+  
+</div>
